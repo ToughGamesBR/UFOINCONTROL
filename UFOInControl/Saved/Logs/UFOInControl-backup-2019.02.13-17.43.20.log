@@ -1,0 +1,1246 @@
+﻿Log file open, 02/12/19 20:11:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UFOInControl
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.315397
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.211s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.12-22.11.21:592][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.12-22.11.21:592][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.12-22.11.21:622][  0]LogHAL: Display: Platform has ~ 16 GB [17138724864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.12-22.11.21:622][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.12-22.11.21:622][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.12-22.11.21:639][  0]LogInit: Computer: DESKTOP-TGN64EA
+[2019.02.12-22.11.21:639][  0]LogInit: User: SalomãoDiasSantos
+[2019.02.12-22.11.21:639][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.12-22.11.21:639][  0]LogInit: High frequency timer resolution =3.515619 MHz
+[2019.02.12-22.11.21:639][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.12-22.11.21:639][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.12-22.11.21:639][  0]LogMemory: Process Physical Memory: 100.87 MB used, 100.87 MB peak
+[2019.02.12-22.11.21:639][  0]LogMemory: Process Virtual Memory: 89.20 MB used, 89.20 MB peak
+[2019.02.12-22.11.21:639][  0]LogMemory: Physical Memory: 3138.30 MB used,  13206.46 MB free, 16344.76 MB total
+[2019.02.12-22.11.21:639][  0]LogMemory: Virtual Memory: 4643.65 MB used,  13206.46 MB free, 134217728.00 MB total
+[2019.02.12-22.11.22:074][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.02.12-22.11.22:074][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.02.12-22.11.22:681][  0]LogStreaming: Display: Took  0.608s to InitEngineTextLocalization.
+[2019.02.12-22.11.22:681][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.12-22.11.22:914][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.12-22.11.22:914][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.12-22.11.26:624][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.12-22.11.26:624][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.12-22.11.26:676][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.02.12-22.11.26:676][  0]LogD3D11RHI:       6052/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.12-22.11.26:678][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.12-22.11.26:678][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.12-22.11.26:678][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.12-22.11.26:681][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.12-22.11.26:681][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.12-22.11.26:681][  0]LogWindows: EnumDisplayDevices:
+[2019.02.12-22.11.26:681][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.02.12-22.11.26:681][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.12-22.11.26:682][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.12-22.11.26:682][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.12-22.11.26:682][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.12-22.11.26:682][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.02.12-22.11.26:682][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.02.12-22.11.26:682][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.02.12-22.11.26:682][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.02.12-22.11.26:712][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.12-22.11.26:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.12-22.11.26:819][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Intermediate/Shaders/WorkingDirectory/1040/).
+[2019.02.12-22.11.26:819][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Salomão Dias Santos/AppData/Local/Temp/UnrealShaderWorkingDir/FEBB773A4D01AF6BD5D7DD80946C5192/'.
+[2019.02.12-22.11.27:261][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.12-22.11.27:272][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.12-22.11.27:283][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.12-22.11.27:294][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.12-22.11.27:319][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.12-22.11.27:331][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.12-22.11.27:342][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.12-22.11.27:354][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.12-22.11.27:360][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:439][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.12-22.11.27:440][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.12-22.11.27:514][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.12-22.11.27:514][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.12-22.11.27:533][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.12-22.11.27:533][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.12-22.11.27:544][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.12-22.11.27:554][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.12-22.11.27:564][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.12-22.11.27:580][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.12-22.11.27:588][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.12-22.11.27:588][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.12-22.11.27:706][  0]LogXGEController: Cleaning working directory: C:/Users/Salomão Dias Santos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.12-22.11.27:706][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.12-22.11.27:706][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.12-22.11.27:706][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.12-22.11.29:886][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.12-22.11.30:619][  0]LogDerivedDataCache: Loaded boot cache 0.73s 71MB C:/Users/Salomão Dias Santos/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.12-22.11.30:619][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Salomão Dias Santos/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.12-22.11.30:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.12-22.11.30:620][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.12-22.11.30:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.12-22.11.30:620][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.12-22.11.30:669][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.12-22.11.30:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Salomão Dias Santos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.12-22.11.30:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.12-22.11.30:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.12-22.11.30:695][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.12-22.11.30:696][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.12-22.11.30:751][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.12-22.11.31:424][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2019.02.12-22.11.31:666][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.12-22.11.32:412][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.12-22.11.32:416][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.12-22.11.32:416][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.12-22.11.32:416][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.12-22.11.32:416][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.12-22.11.32:446][  0]LogNetVersion: UFOInControl 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1797412510)
+[2019.02.12-22.11.33:724][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.084421 seconds
+[2019.02.12-22.11.33:729][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.12-22.11.33:729][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.02.12-22.11.33:729][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.12-22.11.46:997][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.12-22.11.47:009][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.12-22.11.47:443][  0]SourceControl: Source control is disabled
+[2019.02.12-22.11.47:443][  0]SourceControl: Source control is disabled
+[2019.02.12-22.11.47:444][  0]SourceControl: Source control is disabled
+[2019.02.12-22.11.47:445][  0]SourceControl: Source control is disabled
+[2019.02.12-22.11.47:784][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.12-22.11.47:830][  0]LogOcInput: OculusInput pre-init called
+[2019.02.12-22.11.47:912][  0]LogEngine: Initializing Engine...
+[2019.02.12-22.11.47:913][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.12-22.11.47:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.12-22.11.47:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.12-22.11.47:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.12-22.11.47:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.12-22.11.48:205][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.12-22.11.48:219][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.12-22.11.48:227][  0]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.12-22.11.48:259][  0]LogInit: FAudioDevice initialized.
+[2019.02.12-22.11.48:260][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.12-22.11.48:407][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Salomão Dias Santos/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.12-22.11.48:410][  0]LogInit: Texture streaming: Enabled
+[2019.02.12-22.11.48:425][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.12-22.11.48:445][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={D6C81E18-46E6-EC53-C119-E1B3485E4B88}
+[2019.02.12-22.11.48:460][  0]LogInit: Transaction tracking system initialized
+[2019.02.12-22.11.48:482][  0]BlueprintLog: New page: Editor Load
+[2019.02.12-22.11.48:611][  0]LocalizationService: Localization service is disabled
+[2019.02.12-22.11.49:805][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.12-22.11.49:805][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.12-22.11.49:805][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.12-22.11.49:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.12-22.11.49:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.12-22.11.49:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.12-22.11.49:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.12-22.11.50:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/' took 0.05s
+[2019.02.12-22.11.50:696][  0]SourceControl: Source control is disabled
+[2019.02.12-22.11.50:696][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.12-22.11.50:699][  0]LightingResults: New page: Lighting Build
+[2019.02.12-22.11.50:702][  0]MapCheck: New page: Map Check
+[2019.02.12-22.11.50:702][  0]LightingResults: New page: Lighting Build
+[2019.02.12-22.11.51:175][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.02.12-22.11.51:193][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.12-22.11.51:213][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.12-22.11.51:268][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.054ms to complete.
+[2019.02.12-22.11.51:268][  0]LogFileHelpers: Loading map 'Template_Default' took 0.573
+[2019.02.12-22.11.51:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.11.51:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.11.51:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.11.51:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.11.51:494][  0]LogCollectionManager: Loaded 0 collections in 0.002107 seconds
+[2019.02.12-22.11.51:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Collections/' took 0.01s
+[2019.02.12-22.11.51:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Developers/SalomãoDiasSantos/Collections/' took 0.01s
+[2019.02.12-22.11.51:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Collections/' took 0.01s
+[2019.02.12-22.11.51:533][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.12-22.11.51:540][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2572 classes and 603 folders.
+[2019.02.12-22.11.51:546][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.12-22.11.52:813][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.12-22.11.52:818][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.12-22.11.52:848][  0]LogSlate: Took 0.016524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.12-22.11.52:860][  0]LogSlate: Took 0.010861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.12-22.11.52:877][  0]LogSlate: Took 0.014823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.12-22.11.53:039][  0]LogRenderer: Reallocating scene render targets to support 1616x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.12-22.11.53:182][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.12-22.11.53:183][  0]LogLoad: (Engine Initialization) Total time: 47.31 seconds
+[2019.02.12-22.11.53:183][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.12-22.11.53:215][  0]LogAssetRegistry: Asset discovery search completed in 21.8143 seconds
+[2019.02.12-22.11.53:217][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.12-22.11.53:217][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2019.02.12-22.11.53:218][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.12-22.11.53:261][  0]LogSlate: Took 0.015343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.12-22.11.54:536][  4]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.12-22.12.04:830][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-22.12.10:841][112]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/Hero_AnimBP.Hero_AnimBP
+[2019.02.12-22.12.10:868][112]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.12-22.12.11:193][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.12-22.12.11:197][112]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.02.12-22.12.11:672][112]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.02.12-22.12.12:223][112]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.12-22.12.12:538][112]LogSlate: Took 0.004359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.12-22.12.12:602][112]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.12-22.12.20:272][  8]LogSlate: Window 'Hero_AnimBP' being destroyed
+[2019.02.12-22.12.20:275][  8]LogSlate: Window 'Hero_AnimBP' being destroyed
+[2019.02.12-22.12.21:996][193]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Hero_Bp.Hero_Bp
+[2019.02.12-22.12.22:481][194]LogSlate: Took 0.004447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.12-22.12.53:238][400]LogHttp: Warning: 00000240CE40EAC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.12.53:238][400]LogHttp: Warning: 00000240CE40EAC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.12.53:238][400]LogHttp: Warning: 00000240CE40EAC0: libcurl info message cache 1 (Closing connection 0)
+[2019.02.12-22.14.53:271][839]LogHttp: Warning: 00000240CE75CB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.14.53:271][839]LogHttp: Warning: 00000240CE75CB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.14.53:271][839]LogHttp: Warning: 00000240CE75CB80: libcurl info message cache 1 (Closing connection 1)
+[2019.02.12-22.15.32:331][350]LogSlate: Took 0.027530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.12-22.17.05:299][449]LogHttp: Warning: 00000240CE455300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.17.05:300][449]LogHttp: Warning: 00000240CE455300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.17.05:300][449]LogHttp: Warning: 00000240CE455300: libcurl info message cache 1 (Closing connection 2)
+[2019.02.12-22.19.17:333][185]LogHttp: Warning: 00000241119EFEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.19.17:333][185]LogHttp: Warning: 00000241119EFEC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.19.17:333][185]LogHttp: Warning: 00000241119EFEC0: libcurl info message cache 1 (Closing connection 3)
+[2019.02.12-22.21.17:366][490]LogHttp: Warning: 00000240CF380CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.21.17:366][490]LogHttp: Warning: 00000240CF380CC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.21.17:366][490]LogHttp: Warning: 00000240CF380CC0: libcurl info message cache 1 (Closing connection 4)
+[2019.02.12-22.22.25:090][561]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.033
+[2019.02.12-22.22.25:092][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Hero_Bp] ([1] browsable assets)...
+[2019.02.12-22.22.25:104][561]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/Hero_Bp.Hero_Bp]
+[2019.02.12-22.22.25:104][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Hero_Bp]
+[2019.02.12-22.22.25:183][561]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp_Auto197F5CD104DE41EAFD294FABFA3844E3D.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Character/Hero_Bp_Auto1.uasset'
+[2019.02.12-22.22.25:184][561]LogFileHelpers: Auto-saving content packages took 0.093
+[2019.02.12-22.23.29:394][208]LogHttp: Warning: 00000241110A9800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.23.29:394][208]LogHttp: Warning: 00000241110A9800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.23.29:394][208]LogHttp: Warning: 00000241110A9800: libcurl info message cache 1 (Closing connection 5)
+[2019.02.12-22.25.15:662][929]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.25.16:667][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-22.25.16:750][ 20]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp6B618C1045C8C4F658B3FEB44B5795D8.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-22.25.28:023][353]LogRenderer: Reallocating scene render targets to support 1616x712 Format 10 NumSamples 1 (Frame:1).
+[2019.02.12-22.25.29:425][518]LogHttp: Warning: 00000240D0C67600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.25.29:425][518]LogHttp: Warning: 00000240D0C67600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.25.29:425][518]LogHttp: Warning: 00000240D0C67600: libcurl info message cache 1 (Closing connection 6)
+[2019.02.12-22.27.29:441][762]LogHttp: Warning: 000002410D259940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.27.29:441][762]LogHttp: Warning: 000002410D259940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.27.29:442][762]LogHttp: Warning: 000002410D259940: libcurl info message cache 1 (Closing connection 7)
+[2019.02.12-22.29.41:493][265]LogHttp: Warning: 00000240CE789A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.29.41:493][265]LogHttp: Warning: 00000240CE789A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.29.41:493][265]LogHttp: Warning: 00000240CE789A80: libcurl info message cache 1 (Closing connection 8)
+[2019.02.12-22.30.27:619][602]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.31.41:530][256]LogHttp: Warning: 00000240D03C6980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.31.41:530][256]LogHttp: Warning: 00000240D03C6980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.31.41:530][256]LogHttp: Warning: 00000240D03C6980: libcurl info message cache 1 (Closing connection 9)
+[2019.02.12-22.32.12:277][928]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.32.28:644][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-22.32.28:720][808]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp6F04CF6D4D425A40E6702891CE9E6FA2.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-22.32.45:133][204]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-22.32.45:141][204]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TesteHero.TesteHero
+[2019.02.12-22.32.45:166][204]Cmd: MAP LOAD FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Levels/TesteHero.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.12-22.32.45:166][204]LightingResults: New page: Lighting Build
+[2019.02.12-22.32.45:167][204]LoadErrors: New page: Loading map: TesteHero.umap
+[2019.02.12-22.32.45:167][204]MapCheck: New page: Map Check
+[2019.02.12-22.32.45:167][204]LightingResults: New page: Lighting Build
+[2019.02.12-22.32.45:197][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.12-22.32.45:252][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.12-22.32.45:332][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.181ms to complete.
+[2019.02.12-22.32.45:332][204]LogFileHelpers: Loading map 'TesteHero' took 0.166
+[2019.02.12-22.32.47:459][452]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.12-22.32.47:489][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-22.32.47:501][452]PIE: New page: PIE session: TesteHero (Feb 12, 2019, 6:32:47 PM)
+[2019.02.12-22.32.47:501][452]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TesteHero
+[2019.02.12-22.32.47:504][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2019.02.12-22.32.47:505][452]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-22.32.47:505][452]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2019.02.12-22.32.47:505][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TesteHero.TesteHero to /Game/Levels/UEDPIE_0_TesteHero.TesteHero (0.003538s)
+[2019.02.12-22.32.47:536][452]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.12-22.32.47:544][452]LogInit: FAudioDevice initialized.
+[2019.02.12-22.32.47:586][452]LogLinker: Warning: Can't find file '/Game/BluePrints/NewGameMode'
+[2019.02.12-22.32.47:586][452]LogLinker: Warning: Can't find file '/Game/BluePrints/NewGameMode'
+[2019.02.12-22.32.47:586][452]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/NewGameMode.NewGameMode_C'
+[2019.02.12-22.32.47:586][452]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-22.32.47:588][452]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TesteHero.TesteHero up for play (max tick rate 0) at 2019.02.12-20.32.47
+[2019.02.12-22.32.47:588][452]LogWorld: Bringing up level for play took: 0.000985
+[2019.02.12-22.32.47:613][452]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2019.02.12-22.32.47:614][452]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TesteHero 0.452
+[2019.02.12-22.33.18:327][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.33.18:366][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-22.33.18:386][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.33.18:428][137]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.12-22.33.22:171][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-22.33.41:556][902]LogHttp: Warning: 00000240D112EC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.33.41:556][902]LogHttp: Warning: 00000240D112EC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.33.41:556][902]LogHttp: Warning: 00000240D112EC00: libcurl info message cache 1 (Closing connection 10)
+[2019.02.12-22.34.12:573][529]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.34.16:535][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-22.34.16:615][974]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_BpE2B33D8A43F81B808CF14392BB4E7AE8.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-22.34.21:768][589]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.12-22.34.21:798][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-22.34.21:798][589]PIE: New page: PIE session: TesteHero (Feb 12, 2019, 6:34:21 PM)
+[2019.02.12-22.34.21:798][589]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TesteHero
+[2019.02.12-22.34.21:800][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001862s)
+[2019.02.12-22.34.21:800][589]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-22.34.21:801][589]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2019.02.12-22.34.21:801][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TesteHero.TesteHero to /Game/Levels/UEDPIE_0_TesteHero.TesteHero (0.002901s)
+[2019.02.12-22.34.21:828][589]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.12-22.34.21:836][589]LogInit: FAudioDevice initialized.
+[2019.02.12-22.34.21:869][589]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-22.34.21:871][589]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TesteHero.TesteHero up for play (max tick rate 0) at 2019.02.12-20.34.21
+[2019.02.12-22.34.21:871][589]LogWorld: Bringing up level for play took: 0.001028
+[2019.02.12-22.34.21:883][589]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TesteHero 0.721
+[2019.02.12-22.34.22:771][693]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.23:773][813]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.24:773][933]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.25:773][ 53]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.26:773][173]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.27:774][293]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.28:773][413]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.29:773][533]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.30:773][653]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.34.31:774][773]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.34.32:774][893]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.34.33:774][ 13]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.34.34:774][133]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.34.35:774][253]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.34.36:774][373]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.37:774][493]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.38:774][613]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.39:774][733]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.40:775][853]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.41:774][973]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.42:774][ 93]Cmd: restartLevel
+[2019.02.12-22.34.42:774][ 93]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.42:783][ 94]LogNet: Browse: /Game/Levels/TesteHero?restart
+[2019.02.12-22.34.42:783][ 94]LogLoad: LoadMap: /Game/Levels/TesteHero
+[2019.02.12-22.34.42:809][ 94]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TesteHero
+[2019.02.12-22.34.42:811][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001719s)
+[2019.02.12-22.34.42:812][ 94]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-22.34.42:812][ 94]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2019.02.12-22.34.42:812][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TesteHero.TesteHero to /Game/Levels/UEDPIE_0_TesteHero.TesteHero (0.002790s)
+[2019.02.12-22.34.42:813][ 94]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-22.34.42:814][ 94]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TesteHero.TesteHero up for play (max tick rate 0) at 2019.02.12-20.34.42
+[2019.02.12-22.34.42:815][ 94]LogWorld: Bringing up level for play took: 0.000878
+[2019.02.12-22.34.42:815][ 94]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.12-22.34.42:841][ 94]LogLoad: Took 0.058242 seconds to LoadMap(/Game/Levels/UEDPIE_0_TesteHero)
+[2019.02.12-22.34.43:781][206]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.34.44:780][326]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.34.45:781][446]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.34.46:781][566]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.47:781][686]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.48:781][806]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.49:781][926]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.50:781][ 46]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.51:781][166]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.34.52:790][285]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.53:790][405]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.54:790][525]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.34.55:790][645]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.34.56:790][765]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.34.57:789][885]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.34.58:789][  5]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.34.59:790][125]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.35.00:790][245]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.35.01:790][365]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-22.35.02:790][485]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.03:790][605]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.04:790][725]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.05:790][845]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.06:791][965]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.07:790][ 85]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.08:791][205]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.09:790][325]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.10:790][445]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.11:790][565]Cmd: restartLevel
+[2019.02.12-22.35.11:790][565]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-22.35.11:798][566]LogNet: Browse: /Game/Levels/TesteHero?restart
+[2019.02.12-22.35.11:799][566]LogLoad: LoadMap: /Game/Levels/TesteHero
+[2019.02.12-22.35.11:824][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TesteHero
+[2019.02.12-22.35.11:826][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001770s)
+[2019.02.12-22.35.11:826][566]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-22.35.11:827][566]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2019.02.12-22.35.11:827][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TesteHero.TesteHero to /Game/Levels/UEDPIE_0_TesteHero.TesteHero (0.002744s)
+[2019.02.12-22.35.11:827][566]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-22.35.11:829][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TesteHero.TesteHero up for play (max tick rate 0) at 2019.02.12-20.35.11
+[2019.02.12-22.35.11:829][566]LogWorld: Bringing up level for play took: 0.001169
+[2019.02.12-22.35.11:829][566]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.12-22.35.11:830][566]LogLoad: Took 0.031276 seconds to LoadMap(/Game/Levels/UEDPIE_0_TesteHero)
+[2019.02.12-22.35.12:797][682]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.35.13:556][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.35.13:590][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-22.35.13:612][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.35.13:663][778]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.12-22.35.15:784][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-22.35.53:589][552]LogHttp: Warning: 00000240B4823740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.35.53:589][552]LogHttp: Warning: 00000240B4823740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.35.53:589][552]LogHttp: Warning: 00000240B4823740: libcurl info message cache 1 (Closing connection 11)
+[2019.02.12-22.37.05:494][152]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.37.08:827][519]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.12-22.37.08:856][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-22.37.08:856][519]PIE: New page: PIE session: TesteHero (Feb 12, 2019, 6:37:08 PM)
+[2019.02.12-22.37.08:856][519]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TesteHero
+[2019.02.12-22.37.08:858][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001874s)
+[2019.02.12-22.37.08:859][519]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-22.37.08:859][519]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2019.02.12-22.37.08:859][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TesteHero.TesteHero to /Game/Levels/UEDPIE_0_TesteHero.TesteHero (0.003080s)
+[2019.02.12-22.37.08:884][519]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.12-22.37.08:891][519]LogInit: FAudioDevice initialized.
+[2019.02.12-22.37.08:925][519]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-22.37.08:927][519]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TesteHero.TesteHero up for play (max tick rate 0) at 2019.02.12-20.37.08
+[2019.02.12-22.37.08:927][519]LogWorld: Bringing up level for play took: 0.001190
+[2019.02.12-22.37.08:940][519]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TesteHero -0.223
+[2019.02.12-22.37.09:823][623]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.37.10:822][743]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.37.11:823][863]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.37.12:822][983]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.37.13:823][103]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.14:823][223]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.15:823][343]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.16:823][463]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.17:823][583]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.18:823][703]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.19:823][823]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.20:823][943]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.21:823][ 63]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.22:824][183]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.23:823][303]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.24:824][423]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.25:823][543]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.26:824][663]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.27:824][783]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.28:824][903]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.29:824][ 23]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.30:824][143]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.31:824][263]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.32:824][383]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-22.37.33:824][503]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.37.34:824][623]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.35:824][743]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.36:824][863]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.37:825][983]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.38:825][103]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.39:824][223]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.40:824][343]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.41:825][463]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.42:824][583]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.43:825][703]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.44:824][823]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.45:825][943]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.46:824][ 63]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.47:825][183]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.48:828][301]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.49:828][421]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.50:828][541]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.51:829][661]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.52:828][781]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.53:828][901]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.54:829][ 21]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.55:829][141]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.56:829][261]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.57:830][381]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.58:829][501]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.37.59:830][621]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.00:829][741]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.01:830][861]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.02:830][981]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.03:830][101]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.04:830][221]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.05:599][314]LogHttp: Warning: 00000240A0A6AC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.38.05:599][314]LogHttp: Warning: 00000240A0A6AC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.38.05:599][314]LogHttp: Warning: 00000240A0A6AC00: libcurl info message cache 1 (Closing connection 12)
+[2019.02.12-22.38.05:830][341]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.06:829][461]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.07:830][581]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.08:830][701]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.09:830][821]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.10:830][941]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.11:830][ 61]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.12:831][181]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.13:830][301]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.14:830][421]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.15:831][541]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.16:830][661]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.17:831][781]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.18:831][901]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.19:831][ 21]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.20:830][141]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.21:831][261]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.22:831][381]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.23:831][501]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.24:831][621]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.25:831][741]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.26:831][861]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.27:831][981]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.28:832][101]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.29:831][221]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.30:831][341]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.31:832][461]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.32:831][581]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.33:832][701]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.34:832][821]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.35:832][941]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.36:832][ 61]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.37:832][181]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.38:832][301]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.39:832][421]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.40:832][541]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.41:832][661]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.42:833][781]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.43:832][901]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.44:832][ 21]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.45:833][141]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.46:833][261]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.47:833][381]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.48:833][501]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.49:835][619]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.50:836][739]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.51:835][859]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.52:836][979]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.53:835][ 99]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.54:836][219]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.55:836][339]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.56:836][459]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.57:835][579]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.58:836][699]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.38.59:836][819]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.00:836][939]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.01:837][ 59]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.02:836][179]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.03:836][299]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.04:836][419]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.05:836][539]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.06:837][659]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.07:837][779]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.08:836][899]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.09:837][ 19]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.10:837][139]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.11:837][259]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.12:837][379]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.13:837][499]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.14:837][619]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.15:837][739]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.16:837][859]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.17:837][979]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.18:838][ 99]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.19:837][219]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-22.39.20:838][339]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.21:838][459]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.22:837][579]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.23:838][699]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.24:838][819]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.25:838][939]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.26:838][ 59]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.27:838][179]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.28:838][299]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.29:838][419]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.30:838][539]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.31:838][659]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.32:838][779]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.33:838][899]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.34:838][ 19]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.35:838][139]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.36:839][259]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.37:839][379]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.38:838][499]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.39:839][619]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.40:839][739]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.41:839][859]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.42:839][979]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.43:839][ 99]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.44:839][219]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.45:839][339]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.46:840][459]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.47:839][579]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.48:840][699]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.49:840][819]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.50:840][937]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.51:840][ 57]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.52:840][177]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.53:840][297]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.54:840][417]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.55:841][537]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.56:840][657]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.57:841][777]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.58:841][897]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.39.59:841][ 17]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.00:841][137]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.01:841][257]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.02:840][377]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.03:841][497]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.04:841][617]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.05:841][737]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-22.40.06:176][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.40.06:212][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-22.40.06:234][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-22.40.06:278][781]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.12-22.40.12:107][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-22.40.17:624][122]LogHttp: Warning: 00000240A0A6BB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.40.17:624][122]LogHttp: Warning: 00000240A0A6BB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.40.17:624][122]LogHttp: Warning: 00000240A0A6BB00: libcurl info message cache 1 (Closing connection 13)
+[2019.02.12-22.41.35:482][453]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.41.36:722][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-22.41.36:795][576]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp19F549AD43FCE216076A0DB153BAD7DD.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-22.42.29:668][612]LogHttp: Warning: 00000240D1109580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.42.29:668][612]LogHttp: Warning: 00000240D1109580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.42.29:668][612]LogHttp: Warning: 00000240D1109580: libcurl info message cache 1 (Closing connection 14)
+[2019.02.12-22.42.31:983][883]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.42.33:245][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-22.42.33:310][  1]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_BpF63C952E4F4394775095E489D9D0A186.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-22.44.30:173][227]LogHttp: Warning: 00000240BB063740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.44.30:174][227]LogHttp: Warning: 00000240BB063740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.44.30:174][227]LogHttp: Warning: 00000240BB063740: libcurl info message cache 1 (Closing connection 15)
+[2019.02.12-22.46.30:604][374]LogHttp: Warning: 00000240D112F600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.46.30:604][374]LogHttp: Warning: 00000240D112F600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.46.30:604][374]LogHttp: Warning: 00000240D112F600: libcurl info message cache 1 (Closing connection 16)
+[2019.02.12-22.48.31:179][850]LogHttp: Warning: 00000240C51F9300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.48.31:179][850]LogHttp: Warning: 00000240C51F9300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.48.31:179][850]LogHttp: Warning: 00000240C51F9300: libcurl info message cache 1 (Closing connection 17)
+[2019.02.12-22.48.47:721][898]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/TesteHero_Auto2526F40F94F7D88529DEB25AC039D88DE.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Levels/TesteHero_Auto2.umap'
+[2019.02.12-22.48.47:724][898]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TesteHero' took 0.078
+[2019.02.12-22.48.47:724][898]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2019.02.12-22.48.47:728][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Hero_Bp] ([1] browsable assets)...
+[2019.02.12-22.48.47:749][898]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/Hero_Bp.Hero_Bp]
+[2019.02.12-22.48.47:749][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Hero_Bp]
+[2019.02.12-22.48.47:841][898]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp_Auto270E2C474453507018631D3BEBED4393A.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Character/Hero_Bp_Auto2.uasset'
+[2019.02.12-22.48.47:843][898]LogFileHelpers: Auto-saving content packages took 0.115
+[2019.02.12-22.50.43:218][916]LogHttp: Warning: 000002410D074180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.50.43:218][916]LogHttp: Warning: 000002410D074180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.50.43:218][916]LogHttp: Warning: 000002410D074180: libcurl info message cache 1 (Closing connection 18)
+[2019.02.12-22.50.58:069][607]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.52.43:244][354]LogHttp: Warning: 0000024129EF8F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.52.43:244][354]LogHttp: Warning: 0000024129EF8F40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.52.43:244][354]LogHttp: Warning: 0000024129EF8F40: libcurl info message cache 1 (Closing connection 19)
+[2019.02.12-22.52.49:675][101]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.53.44:658][614]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/InteracaoRadio.InteracaoRadio
+[2019.02.12-22.53.50:100][235]LogSlate: Window 'InteracaoRadio' being destroyed
+[2019.02.12-22.53.50:103][235]LogSlate: Window 'InteracaoRadio' being destroyed
+[2019.02.12-22.53.57:707][856]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Hero_Bp.Hero_Bp
+[2019.02.12-22.54.55:266][122]LogHttp: Warning: 00000241429302C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.54.55:266][122]LogHttp: Warning: 00000241429302C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.54.55:266][122]LogHttp: Warning: 00000241429302C0: libcurl info message cache 1 (Closing connection 20)
+[2019.02.12-22.56.19:561][153]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-22.57.07:308][455]LogHttp: Warning: 00000240D110B100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.57.07:308][455]LogHttp: Warning: 00000240D110B100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.57.07:308][455]LogHttp: Warning: 00000240D110B100: libcurl info message cache 1 (Closing connection 21)
+[2019.02.12-22.58.48:097][571]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/TesteHero_Auto3E162AA514F8F090F5AC573A7BBEA72D1.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Levels/TesteHero_Auto3.umap'
+[2019.02.12-22.58.48:100][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TesteHero' took 0.071
+[2019.02.12-22.58.48:100][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2019.02.12-22.58.48:104][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Hero_Bp] ([1] browsable assets)...
+[2019.02.12-22.58.48:115][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/Hero_Bp.Hero_Bp]
+[2019.02.12-22.58.48:115][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Hero_Bp]
+[2019.02.12-22.58.48:196][571]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp_Auto35A1975F243E90DC158857C8B50FC223E.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Character/Hero_Bp_Auto3.uasset'
+[2019.02.12-22.58.48:197][571]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.02.12-22.59.19:340][385]LogHttp: Warning: 00000241136C1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-22.59.19:340][385]LogHttp: Warning: 00000241136C1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-22.59.19:340][385]LogHttp: Warning: 00000241136C1A80: libcurl info message cache 1 (Closing connection 22)
+[2019.02.12-22.59.59:085][381]LogMetaData: Removing '/Game/Character/InteracaoArmas.InteracaoArmas_C' ref from Metadata '/Game/Character/InteracaoRadio.PackageMetaData'
+[2019.02.12-22.59.59:085][381]LogMetaData: Removing '/Game/Character/InteracaoArmas.InteracaoArmas:Interagir.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character/InteracaoRadio.PackageMetaData'
+[2019.02.12-22.59.59:085][381]LogMetaData: Removing '/Game/Character/InteracaoArmas.SKEL_InteracaoArmas_C' ref from Metadata '/Game/Character/InteracaoRadio.PackageMetaData'
+[2019.02.12-22.59.59:107][381]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/InteracaoArmas742F442D4DFBBE204AD5CF8975780DCA.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/InteracaoArmas.uasset'
+[2019.02.12-22.59.59:910][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/InteracaoArmas.InteracaoArmas
+[2019.02.12-23.00.40:635][303]BlueprintLog: New page: Compile InteracaoArmas
+[2019.02.12-23.00.41:443][392]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/InteracaoArmas31EFEF6D4CA0F5E2E466E4BC5E8C48F3.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/InteracaoArmas.uasset'
+[2019.02.12-23.00.42:905][566]LogSlate: Window 'InteracaoArmas' being destroyed
+[2019.02.12-23.00.42:909][566]LogSlate: Window 'InteracaoArmas' being destroyed
+[2019.02.12-23.00.46:175][945]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Hero_Bp.Hero_Bp
+[2019.02.12-23.01.31:359][844]LogHttp: Warning: 000002414FCE7740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.01.31:359][844]LogHttp: Warning: 000002414FCE7740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.01.31:359][844]LogHttp: Warning: 000002414FCE7740: libcurl info message cache 1 (Closing connection 23)
+[2019.02.12-23.02.26:956][701]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-23.02.28:416][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-23.02.28:495][813]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_BpF4EB61E947F39C1500EEFBA638016614.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-23.03.31:383][403]LogHttp: Warning: 000002414A022340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.03.31:383][403]LogHttp: Warning: 000002414A022340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.03.31:383][403]LogHttp: Warning: 000002414A022340: libcurl info message cache 1 (Closing connection 24)
+[2019.02.12-23.05.15:858][690]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-23.05.31:422][522]LogHttp: Warning: 000002410D0742C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.05.31:422][522]LogHttp: Warning: 000002410D0742C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.05.31:422][522]LogHttp: Warning: 000002410D0742C0: libcurl info message cache 1 (Closing connection 25)
+[2019.02.12-23.07.17:075][998]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-23.07.18:772][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-23.07.18:857][171]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp0FE59902472A63277BEAF6B8BDE8D686.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-23.07.43:466][ 39]LogHttp: Warning: 000002414A995080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.07.43:466][ 39]LogHttp: Warning: 000002414A995080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.07.43:466][ 39]LogHttp: Warning: 000002414A995080: libcurl info message cache 1 (Closing connection 26)
+[2019.02.12-23.08.30:858][527]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-23.09.35:830][621]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/TesteHero_Auto488ABB74A4F93ED89EB92F18263677CC3.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Levels/TesteHero_Auto4.umap'
+[2019.02.12-23.09.35:833][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TesteHero' took 0.065
+[2019.02.12-23.09.35:833][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2019.02.12-23.09.35:836][621]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Hero_Bp] ([1] browsable assets)...
+[2019.02.12-23.09.35:847][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/Hero_Bp.Hero_Bp]
+[2019.02.12-23.09.35:848][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Hero_Bp]
+[2019.02.12-23.09.35:941][621]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_Bp_Auto4D4A486FA420B52076CD522BA425FA254.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Character/Hero_Bp_Auto4.uasset'
+[2019.02.12-23.09.35:943][621]LogFileHelpers: Auto-saving content packages took 0.108
+[2019.02.12-23.09.43:484][365]LogHttp: Warning: 000002410D077EC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.09.43:484][365]LogHttp: Warning: 000002410D077EC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.09.43:484][365]LogHttp: Warning: 000002410D077EC0: libcurl info message cache 1 (Closing connection 27)
+[2019.02.12-23.10.26:822][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-23.10.26:893][890]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_BpE572C01F4DEA5678D231A9A2E8DA5834.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-23.10.32:337][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.12-23.10.32:372][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-23.10.32:372][466]PIE: New page: PIE session: TesteHero (Feb 12, 2019, 7:10:32 PM)
+[2019.02.12-23.10.32:372][466]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TesteHero
+[2019.02.12-23.10.32:375][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001978s)
+[2019.02.12-23.10.32:375][466]LogAIModule: Creating AISystem for world TesteHero
+[2019.02.12-23.10.32:376][466]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2019.02.12-23.10.32:376][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TesteHero.TesteHero to /Game/Levels/UEDPIE_0_TesteHero.TesteHero (0.003248s)
+[2019.02.12-23.10.32:403][466]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.12-23.10.32:411][466]LogInit: FAudioDevice initialized.
+[2019.02.12-23.10.32:439][466]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-23.10.32:441][466]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TesteHero.TesteHero up for play (max tick rate 0) at 2019.02.12-21.10.32
+[2019.02.12-23.10.32:441][466]LogWorld: Bringing up level for play took: 0.001130
+[2019.02.12-23.10.32:454][466]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TesteHero -0.709
+[2019.02.12-23.10.33:338][568]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.34:338][688]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.35:338][808]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.36:339][928]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.37:339][ 48]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.38:338][168]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.39:339][288]LogBlueprintUserMessages: [Hero_Bp_2] 
+[2019.02.12-23.10.40:339][408]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-23.10.41:339][528]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-23.10.42:339][648]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-23.10.43:339][768]LogBlueprintUserMessages: [Hero_Bp_2] gancho
+[2019.02.12-23.10.44:338][888]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-23.10.45:339][  8]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-23.10.46:338][128]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-23.10.47:339][248]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-23.10.48:339][368]LogBlueprintUserMessages: [Hero_Bp_2] usb
+[2019.02.12-23.10.49:339][488]LogBlueprintUserMessages: [Hero_Bp_2] radio
+[2019.02.12-23.10.50:339][608]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-23.10.51:340][728]LogBlueprintUserMessages: [Hero_Bp_2] garra
+[2019.02.12-23.10.52:232][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-23.10.52:264][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-23.10.52:287][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-23.10.52:334][838]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.12-23.10.55:852][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-23.10.56:042][282]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/Hero_AnimBP.Hero_AnimBP
+[2019.02.12-23.10.56:051][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.12-23.10.56:268][282]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.12-23.11.55:510][345]LogHttp: Warning: 00000241552F6840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.11.55:510][345]LogHttp: Warning: 00000241552F6840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.11.55:510][345]LogHttp: Warning: 00000241552F6840: libcurl info message cache 1 (Closing connection 28)
+[2019.02.12-23.14.07:560][183]LogHttp: Warning: 00000241552F6840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.14.07:560][183]LogHttp: Warning: 00000241552F6840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.14.07:560][183]LogHttp: Warning: 00000241552F6840: libcurl info message cache 1 (Closing connection 29)
+[2019.02.12-23.16.19:579][ 13]LogHttp: Warning: 00000241552F5440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.16.19:579][ 13]LogHttp: Warning: 00000241552F5440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.16.19:579][ 13]LogHttp: Warning: 00000241552F5440: libcurl info message cache 1 (Closing connection 30)
+[2019.02.12-23.18.19:599][410]LogHttp: Warning: 00000241552F74C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.18.19:599][410]LogHttp: Warning: 00000241552F74C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.18.19:599][410]LogHttp: Warning: 00000241552F74C0: libcurl info message cache 1 (Closing connection 31)
+[2019.02.12-23.19.15:981][164]LogSlate: Window 'Hero_AnimBP' being destroyed
+[2019.02.12-23.19.15:985][164]LogSlate: Window 'Hero_AnimBP' being destroyed
+[2019.02.12-23.19.20:221][641]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Hero_Bp.Hero_Bp
+[2019.02.12-23.20.19:650][274]LogHttp: Warning: 00000240CC7B1F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.20.19:650][274]LogHttp: Warning: 00000240CC7B1F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.20.19:650][274]LogHttp: Warning: 00000240CC7B1F80: libcurl info message cache 1 (Closing connection 32)
+[2019.02.12-23.22.54:446][847]BlueprintLog: New page: Compile Hero_Bp
+[2019.02.12-23.25.32:505][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-23.25.32:593][136]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_BpCEE0DD954A33F7BA027159943CC52B90.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-23.25.43:729][358]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/InteracaoArmas.InteracaoArmas
+[2019.02.12-23.25.47:641][796]LogSlate: Window 'InteracaoArmas' being destroyed
+[2019.02.12-23.25.47:645][796]LogSlate: Window 'InteracaoArmas' being destroyed
+[2019.02.12-23.25.51:929][297]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Hero_Bp.Hero_Bp
+[2019.02.12-23.27.51:012][666]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/TesteHero_Auto5499979F147C4A2BAA2EEEDAB96639F2B.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Autosaves/Game/Levels/TesteHero_Auto5.umap'
+[2019.02.12-23.27.51:016][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TesteHero' took 0.073
+[2019.02.12-23.27.51:016][666]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2019.02.12-23.34.04:851][359]LogHttp: Warning: 000002410D0751C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.12-23.34.04:851][359]LogHttp: Warning: 000002410D0751C0: libcurl info message cache 0 (Connection 38 seems to be dead!)
+[2019.02.12-23.34.04:851][359]LogHttp: Warning: 000002410D0751C0: libcurl info message cache 1 (Closing connection 38)
+[2019.02.12-23.34.04:851][359]LogHttp: Warning: 000002410D0751C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.02.12-23.34.04:851][359]LogHttp: Warning: 000002410D0751C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.12-23.34.04:851][359]LogHttp: Warning: 000002410D0751C0: libcurl info message cache 4 (Closing connection 39)
+[2019.02.12-23.36.25:870][132]LogHttp: Warning: 000002410D076340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.02.12-23.36.25:870][132]LogHttp: Warning: 000002410D076340: libcurl info message cache 0 (  Trying 52.87.134.163...)
+[2019.02.12-23.36.25:870][132]LogHttp: Warning: 000002410D076340: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.02.12-23.36.25:870][132]LogHttp: Warning: 000002410D076340: libcurl info message cache 2 (connect to 52.87.134.163 port 443 failed: Timed out)
+[2019.02.12-23.36.25:870][132]LogHttp: Warning: 000002410D076340: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.02.12-23.36.25:870][132]LogHttp: Warning: 000002410D076340: libcurl info message cache 4 (Closing connection 40)
+[2019.02.12-23.37.32:748][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Hero_Bp" FILE="../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset" SILENT=true
+[2019.02.12-23.37.32:829][119]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/Hero_BpA75B1FFD45639FE2E2AEE0933FBD934B.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Character/Hero_Bp.uasset'
+[2019.02.12-23.37.34:290][264]LogSlate: Window 'Hero_Bp' being destroyed
+[2019.02.12-23.37.34:295][264]LogSlate: Window 'Hero_Bp' being destroyed
+[2019.02.12-23.37.38:746][769]LogSavePackage: Moving '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Saved/TesteHeroDC9987934B1C4D350085AABCF829979C.tmp' to '../../../../../../Users/Salomão Dias Santos/Documents/GitHub/UFOINCONTROL/UFOInControl/Content/Levels/TesteHero.umap'
+[2019.02.12-23.37.38:782][769]LogFileHelpers: Saving map 'TesteHero' took 0.174
+[2019.02.12-23.37.40:416][951]LogSlate: Window 'UFOInControl - Unreal Editor' being destroyed
+[2019.02.12-23.37.40:417][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.12-23.37.40:602][952]Cmd: QUIT_EDITOR
+[2019.02.12-23.37.41:303][952]LogExit: Preparing to exit.
+[2019.02.12-23.37.41:716][952]LogExit: Editor shut down
+[2019.02.12-23.37.41:716][952]LogExit: Transaction tracking system shut down
+[2019.02.12-23.37.41:961][952]LogExit: Object subsystem successfully closed.
+[2019.02.12-23.37.41:981][952]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.12-23.37.41:984][952]LogD3D11RHI: Shutdown
+[2019.02.12-23.37.41:984][952]LogD3D11RHI: CleanupD3DDevice
+[2019.02.12-23.37.41:986][952]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (622)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module BlueprintGraph (620)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module PinnedCommandList (618)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module SkeletonEditor (616)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (614)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.02.12-23.37.42:007][952]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.02.12-23.37.42:008][952]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.02.12-23.37.42:009][952]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.02.12-23.37.42:434][952]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.02.12-23.37.42:435][952]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.02.12-23.37.42:435][952]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.02.12-23.37.42:435][952]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.02.12-23.37.42:435][952]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.02.12-23.37.42:435][952]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.02.12-23.37.42:490][952]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.02.12-23.37.42:494][952]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.02.12-23.37.42:495][952]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.02.12-23.37.42:663][952]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.12-23.37.42:667][952]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.12-23.37.42:668][952]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.12-23.37.42:769][952]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.12-23.37.42:870][952]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.12-23.37.42:871][952]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.12-23.37.42:872][952]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.12-23.37.42:872][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.12-23.37.42:872][952]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.12-23.37.42:872][952]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.12-23.37.42:872][952]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.12-23.37.42:872][952]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.02.12-23.37.42:873][952]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.02.12-23.37.42:878][952]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.02.12-23.37.42:879][952]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.02.12-23.37.42:879][952]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.02.12-23.37.42:879][952]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.02.12-23.37.42:879][952]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.02.12-23.37.42:880][952]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.02.12-23.37.42:904][952]LogDerivedDataCache: Shutdown
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.02.12-23.37.42:904][952]LogXGEController: Cleaning working directory: C:/Users/Salomão Dias Santos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.02.12-23.37.42:904][952]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.02.12-23.37.42:905][952]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.02.12-23.37.42:906][952]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.02.12-23.37.42:906][952]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.02.12-23.37.42:911][952]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.02.12-23.37.42:912][952]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.02.12-23.37.42:941][952]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.02.12-23.37.42:941][952]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.12-23.37.42:941][952]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6355AF8A-4919-5057-C12A-4DAE102727FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=9ed950ec42b0f985a246f1afcb340f02%7C50f113f3180a4c109a17ed8b30204881%7C3a8e38c6-b980-45ef-bc79-ab99a9d87dd2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.02.12-23.37.42:961][952]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.02.12-23.37.42:962][952]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.12-23.37.42:962][952]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.12-23.37.42:963][952]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.12-23.37.42:969][952]LogExit: Exiting.
+[2019.02.12-23.37.42:979][952]Log file closed, 02/12/19 21:37:42
